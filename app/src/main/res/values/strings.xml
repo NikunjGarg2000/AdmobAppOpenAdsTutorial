@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdmobAppOpenAdsTutorial</string>
+    <string name="GoogleAdsAppId">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="MainActivityAppOpenAd">ca-app-pub-3940256099942544/3419835294</string>
+</resources>
